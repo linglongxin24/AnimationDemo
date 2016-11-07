@@ -1,4 +1,4 @@
-package cn.bluemobi.dylan.animatordemo;
+package cn.bluemobi.dylan.animationdemo;
 
 import org.junit.Test;
 
