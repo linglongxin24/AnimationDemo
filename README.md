@@ -2,7 +2,7 @@
 还有布局动画，就是在加载布局时的动画；还有Activity跳转的动画。
 效果图如下：
 
-![效果图](https://github.com/linglongxin24/AnimationDemo/blob/master/screenshorts/effect.gif?raw=true
+![效果图](https://github.com/linglongxin24/AnimationDemo/blob/master/screenshorts/effect.gif?raw=true)
 
 #1. Android基础动画
 
