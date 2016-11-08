@@ -2,7 +2,7 @@
 还有布局动画，就是在加载布局时的动画；还有Activity跳转的动画。
 效果图如下：
 
-![效果图](https://github.com/linglongxin24/AnimationDemo/blob/master/screenshorts/%E7%A4%BA%E4%BE%8B%E5%9B%BE.jpg?raw=true)
+![效果图](https://github.com/linglongxin24/AnimationDemo/blob/master/screenshorts/effect.gif?raw=true
 
 #1. Android基础动画
 
@@ -342,4 +342,4 @@ AlphaAnimation alphaAnimation = new AlphaAnimation(0.1f, 1.0f);
   startActivity(new Intent(this,SecondActivity.class));
                 overridePendingTransition(R.anim.zoom_in,R.anim.zoom_out);
 ```
-[GitHub](https://github.com/linglongxin24/AnimationDemo)
+#6.[GitHub](https://github.com/linglongxin24/AnimationDemo)
