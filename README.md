@@ -3,7 +3,9 @@
  * 缩放动画
  * 旋转动画
  * 位移动画
- ![效果图](https://github.com/linglongxin24/AnimationDemo/blob/master/screenshorts/%E7%A4%BA%E4%BE%8B%E5%9B%BE.jpg?raw=true)
+
+ ![效果图](https://github.com/linglongxin24/AnimationDemo/blob/master/screenshorts/effect.gif?raw=true)
+ 
  
  代码：
  
